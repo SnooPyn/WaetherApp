@@ -1,4 +1,4 @@
-# WaetherApp
+# WeatherApp
 This is a weather forecast application made with Python
 # API
 Api used for fetching weather forecast Open Weathermap (https://openweathermap.org/)
